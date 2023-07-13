@@ -6,18 +6,30 @@
   width: 1384px;
   height: 504px;
 }
-
+footer{
+  background-color: #2D8DFF;
+}
 .form-novidade{
   background-color: #2D8DFF;
 }
-
+.color-font-white-size{
+  color: white;
+  font-size: 30px;
+  font-family: 'Roboto Mono';
+}
 .logo{
   width: 35px;
   height: 85px;
 }
-
+.logo-nome{
+  width: 323.14px;
+  height: 160px;
+}
 .nav-secundaria{
   background-color: #381EE2;
-  width: 1440px;
   height: 58px;
+}
+
+.btn-search{
+  color: #FFFFFF;
 }
