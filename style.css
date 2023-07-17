@@ -6,30 +6,82 @@
   width: 1384px;
   height: 504px;
 }
-footer{
+
+.footer-rodape{
   background-color: #2D8DFF;
+  height: 100%;
 }
+
 .form-novidade{
   background-color: #2D8DFF;
+  height: 100%;
 }
+
 .color-font-white-size{
   color: white;
   font-size: 30px;
   font-family: 'Roboto Mono';
 }
+
 .logo{
   width: 35px;
   height: 85px;
 }
+
 .logo-nome{
   width: 323.14px;
   height: 160px;
 }
-.nav-secundaria{
+
+.div-categoria{
   background-color: #381EE2;
   height: 58px;
 }
 
+.btn-pesquisa{
+background-color: #ffff;
+}
+
 .btn-search{
-  color: #FFFFFF;
+width: 45px;
+height: 35px;
+}
+
+.text-novidade{
+  font-size: 40px;
+  color: #ffff;
+}
+
+.div-categoria-sub{
+  height: 58px;
+  font-family: 'Roboto Mono';
+  color: #ffff;
+  font-size: 40px;
+}
+
+.div-sub-feed{
+  background-color: #2D8DFF;
+}
+
+.links{
+  font-family: 'Roboto Mono';
+  font-size: 28px;
+}
+
+.footer-form{
+  font-family: 'Roboto Mono';
+  color: #ffff;
+}
+
+.pd-0{
+  padding: 0px !important; 
+}
+
+.pd-0 img{
+  object-fit: cover;
+}
+
+.img-detalhes-pequena{
+  width: 150px;
+  height: 120px;
 }
