@@ -39,12 +39,12 @@
 }
 
 .btn-pesquisa{
-background-color: #ffff;
+  background-color: #ffff;
 }
 
 .btn-search{
-width: 45px;
-height: 35px;
+  width: 45px;
+  height: 35px;
 }
 
 .text-novidade{
@@ -57,6 +57,7 @@ height: 35px;
   font-family: 'Roboto Mono';
   color: #ffff;
   font-size: 40px;
+  font-weight: bold;  
 }
 
 .div-sub-feed{
@@ -66,11 +67,13 @@ height: 35px;
 .links{
   font-family: 'Roboto Mono';
   font-size: 28px;
+  font-weight: bold;
 }
 
 .footer-form{
   font-family: 'Roboto Mono';
   color: #ffff;
+  font-weight: bold;
 }
 
 .pd-0{
@@ -90,6 +93,7 @@ height: 35px;
   color: #2D8DFF;
   font-family: 'Roboto Mono';
   font-size: 22px;
+  font-weight: bold;
 }
 
   .myButton{
@@ -111,6 +115,7 @@ height: 35px;
   padding: 10px 40px 10px 40px;
   border: solid #2D8DFF 2px;
   text-decoration: none;
+  font-weight: bold;
 }
 
   .myButton:hover {
